@@ -1,0 +1,3 @@
+*.sqlite
+*.swp
+local_settings.py
